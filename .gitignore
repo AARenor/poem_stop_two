@@ -1,0 +1,6 @@
+# Local handoff written after the build; not part of the entry.
+submit.json
+
+# Python bytecode from local runs.
+__pycache__/
+*.pyc
